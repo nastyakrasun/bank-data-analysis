@@ -1,0 +1,5 @@
+pandas
+openpyxl  # Для работы с Excel
+psycopg2  # Зависимость для PostgreSQL
+sqlite3  # Для работы с PostgreSQL
+notebook  # Для работы с Jupyter notebook
