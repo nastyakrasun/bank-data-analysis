@@ -13,7 +13,6 @@
 project_root/   Корень проекта
    src/   Исходный код проекта
       data_loader.py   Код для загрузки данных из CSV и базы данных
-      data_analysis.py   Код для анализа данных
       data_visualization.py   Код для визуализации данных в Excel
       main.py   Основной файл, запускающий анализ
    data/   Папка для данных
